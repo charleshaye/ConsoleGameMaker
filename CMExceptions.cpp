@@ -1,0 +1,4 @@
+#include "CMExceptions.h"
+BEGIN_CM_NAMESPACE
+
+END_CM_NAMESPACE

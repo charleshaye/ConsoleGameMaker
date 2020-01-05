@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Clone_Failed_Exception" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAACAAAAAAAAAAAQAAAAAAIAAAAAAAAAEAAA=</HashCode>
+      <FileName>CMExceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CM_Base_Exception" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMExceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMAnimator" Collapsed="true">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAEACACCAAAAAAAAABAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>CMAnimator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMApplication" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>CMApplication.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMAudioPlayer" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAABAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>CMAudioPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMCamera" Collapsed="true">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAgAQAAAAEAAAAAA=</HashCode>
+      <FileName>CMCamera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMCollider" Collapsed="true">
+    <Position X="12.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMCollider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMComponent" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>CMComponent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMInputEvent" Collapsed="true">
+    <Position X="6.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMInputEvent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMKeyEvent" Collapsed="true">
+    <Position X="5.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAgAAAEAAABEAAAAAAAAAAADAA=</HashCode>
+      <FileName>CMInputEvent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMMouseEvent" Collapsed="true">
+    <Position X="7.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIAAABAAAAAAAAAAAAgAAAEAABAEAAAAAAAAAASAAA=</HashCode>
+      <FileName>CMInputEvent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMPainter" Collapsed="true">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAACAAQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>CMPainter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMPosition" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAACAAAAAAAABAAAIAYAAAAAAAAAgAAFgAAAAAAA=</HashCode>
+      <FileName>CMPosition.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMTransform" Collapsed="true">
+    <Position X="14.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAMAEAAAAAAAAAAAAABACCAAAEAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>CMTransform.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMUpdater" Collapsed="true">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAAAAAAAAIAEEAQAAABBIAAAAgABIAAAAAGCAgAQA=</HashCode>
+      <FileName>CMUpdater.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComManager" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEBAAAAAAAAAAMGAAAAQAAAAABQAAAABgAAAAAAAA=</HashCode>
+      <FileName>ComManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstImage&lt;width, height, Char_t&gt;" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DebugConsole" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAIAAAACAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>DebugConsole.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dynamic_Invoke_Failed_Exception" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAQAAgQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMExceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Image&lt;Char_t&gt;" Collapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAABAAA=</HashCode>
+      <FileName>Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Input" Collapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAIAAAAAAAFAAAAAAAEBAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Input.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputTranslator" Collapsed="true">
+    <Position X="8.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAgAAgAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>InputTranslator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputTranslator_Win" Collapsed="true">
+    <Position X="8.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAgAgAAgAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>InputTranslator_Win.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mem_Not_Found_Exception" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAACAAAAAAAAgAIQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMExceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MessageBox" Collapsed="true">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MessageBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PainterDevice_Win" Collapsed="true">
+    <Position X="5.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgACgAAAAgAAAgAgAAAAACACASkAAAIAAAAAAAAA=</HashCode>
+      <FileName>PainterDevice_Win.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Runtime_Error_Exception" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMExceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scene" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAECAAEABAEAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Scene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneManager" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAEAAAAAIAAAAIABCAABAAAAAAAAABAAAAAAAAAAQ=</HashCode>
+      <FileName>SceneManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sprite&lt;ConstImage&lt;width, height, Char_t&gt;&gt;" Collapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sprite&lt;Image&lt;Char_t&gt;&gt;" Collapsed="true">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sprite&lt;T&gt;" Collapsed="true">
+    <Position X="22.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextLabel" Collapsed="true">
+    <Position X="2.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextLabel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Widget" Collapsed="true">
+    <Position X="1.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABQAABAAAAQAAAAIABAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Widget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ConstSprite" Collapsed="true">
+    <Position X="17" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprite.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DebugConsoleImpl" Collapsed="true">
+    <Position X="18.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAgAAgAAAACAAAABAQgAAIAQAAAAQAAAAAAQAA=</HashCode>
+      <FileName>DebugConsole.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DynamicSprite" Collapsed="true">
+    <Position X="20.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprite.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PainterDevice" Collapsed="true">
+    <Position X="5.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAgAAAAAAACAQEAAAAAAAAAAAAA=</HashCode>
+      <FileName>PainterDevice.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Header Files\Components">
+      <UniqueIdentifier>{324aa1b3-6851-4519-9c16-5fc24bf31309}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\IO">
+      <UniqueIdentifier>{71e5bd21-8427-4b1c-8554-f38b42ad09df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Render">
+      <UniqueIdentifier>{b16d1476-4c0b-464f-ac5d-3404b627d6ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Event">
+      <UniqueIdentifier>{bb38fcca-5cc3-4af1-b10f-52cc1ee9374a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core">
+      <UniqueIdentifier>{6a1fbaee-8320-4fc5-a0d9-e8448fbab492}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Tools">
+      <UniqueIdentifier>{2f4c7fb0-e75a-46e4-b4f0-a83956f6a3df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Controls">
+      <UniqueIdentifier>{406e4f05-1ecd-4327-a854-d81f4192958f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Components">
+      <UniqueIdentifier>{47922161-f6b7-4d10-9afc-efb568d73682}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\IO">
+      <UniqueIdentifier>{dc7a38c3-d5c8-42a4-9596-9ddf7bc95fe7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Event">
+      <UniqueIdentifier>{82fd7ed9-ed75-4075-81df-6526e487ae11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core">
+      <UniqueIdentifier>{2ba84122-ceae-41ba-bb7c-4642b7018df1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Controls">
+      <UniqueIdentifier>{18c25abe-6384-4d81-99a2-5263085e21c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tools">
+      <UniqueIdentifier>{6de6fd18-7e62-4d63-a231-ba5e03e57b15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Render">
+      <UniqueIdentifier>{e8bbff30-882c-47b9-b934-646b2defbc9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\IO\WIN32">
+      <UniqueIdentifier>{a0e8f236-235e-4ecf-b8d4-1a1c5732c794}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Render\WIN32">
+      <UniqueIdentifier>{469ba9ff-f2fd-4260-84fa-090f5e86b37e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\IO\WIN32">
+      <UniqueIdentifier>{7c98e574-0219-46bd-a920-acbf5b68bfe4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Render\WIN32">
+      <UniqueIdentifier>{88670202-4df2-48bc-9bbb-12f8a257e733}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CMAnimator.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="CMAudioPlayer.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="CMCamera.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="CMCollider.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="CMExceptions.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="CMPainter.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="CMTransform.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUpdater.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Source Files\Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Source Files\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Source Files\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>Source Files\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="PainterDevice.cpp">
+      <Filter>Source Files\Render</Filter>
+    </ClCompile>
+    <ClCompile Include="InputTranslator_Win.cpp">
+      <Filter>Source Files\IO\WIN32</Filter>
+    </ClCompile>
+    <ClCompile Include="PainterDevice_Win.cpp">
+      <Filter>Source Files\Render\WIN32</Filter>
+    </ClCompile>
+    <ClCompile Include="TextLabel.cpp">
+      <Filter>Source Files\Controls</Filter>
+    </ClCompile>
+    <ClCompile Include="Widget.cpp">
+      <Filter>Source Files\Controls</Filter>
+    </ClCompile>
+    <ClCompile Include="MessageBox.cpp">
+      <Filter>Source Files\Controls</Filter>
+    </ClCompile>
+    <ClCompile Include="Resources.cpp">
+      <Filter>Source Files\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>Source Files\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="InputTranslator.cpp">
+      <Filter>Source Files\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="CMInputEvent.cpp">
+      <Filter>Source Files\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="CMApplication.cpp">
+      <Filter>Source Files\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="CMPosition.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugConsole.cpp">
+      <Filter>Source Files\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="CMComponent.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Color.h">
+      <Filter>Header Files\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyCode.h">
+      <Filter>Header Files\IO</Filter>
+    </ClInclude>
+    <ClInclude Include="ComManager.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="PainterDevice.h">
+      <Filter>Header Files\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Header Files\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Coms.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Header Files\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Resources.h">
+      <Filter>Header Files\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="CMExceptions.h">
+      <Filter>Header Files\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="CMPosition.h">
+      <Filter>Header Files\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="CMInputEvent.h">
+      <Filter>Header Files\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="InputTranslator_Win.h">
+      <Filter>Header Files\IO\WIN32</Filter>
+    </ClInclude>
+    <ClInclude Include="PainterDevice_Win.h">
+      <Filter>Header Files\Render\WIN32</Filter>
+    </ClInclude>
+    <ClInclude Include="CMTypeTraits.h">
+      <Filter>Header Files\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="CMDefines.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugConsole.h">
+      <Filter>Header Files\Tools</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="CMAnimator.h">
+      <Filter>Header Files\Components</Filter>
+    </QtMoc>
+    <QtMoc Include="CMAudioPlayer.h">
+      <Filter>Header Files\Components</Filter>
+    </QtMoc>
+    <QtMoc Include="CMCamera.h">
+      <Filter>Header Files\Components</Filter>
+    </QtMoc>
+    <QtMoc Include="CMCollider.h">
+      <Filter>Header Files\Components</Filter>
+    </QtMoc>
+    <QtMoc Include="CMPainter.h">
+      <Filter>Header Files\Components</Filter>
+    </QtMoc>
+    <QtMoc Include="CMTransform.h">
+      <Filter>Header Files\Components</Filter>
+    </QtMoc>
+    <QtMoc Include="CMUpdater.h">
+      <Filter>Header Files\Components</Filter>
+    </QtMoc>
+    <QtMoc Include="Object.h">
+      <Filter>Header Files\Core</Filter>
+    </QtMoc>
+    <QtMoc Include="Scene.h">
+      <Filter>Header Files\Core</Filter>
+    </QtMoc>
+    <QtMoc Include="InputTranslator.h">
+      <Filter>Header Files\IO</Filter>
+    </QtMoc>
+    <QtMoc Include="Input.h">
+      <Filter>Header Files\IO</Filter>
+    </QtMoc>
+    <QtMoc Include="CMApplication.h">
+      <Filter>Header Files\Core</Filter>
+    </QtMoc>
+    <QtMoc Include="MessageBox.h">
+      <Filter>Header Files\Controls</Filter>
+    </QtMoc>
+    <QtMoc Include="TextLabel.h">
+      <Filter>Header Files\Controls</Filter>
+    </QtMoc>
+    <QtMoc Include="Widget.h">
+      <Filter>Header Files\Controls</Filter>
+    </QtMoc>
+    <QtMoc Include="CMComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>
